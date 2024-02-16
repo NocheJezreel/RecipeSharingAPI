@@ -181,7 +181,7 @@ This project uses several dependencies to function correctly. Here's a brief des
 
 ## DevDependencies
 
-### 🔄 nodemon
+### Nodemon
 
 **Description:** This package is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 
